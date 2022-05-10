@@ -1,4 +1,10 @@
 {
   "email": "user7@test.com",
-  "password": "user123456"
+  "password": "user123456",
+  "projectName": "Test project",
+  "teamName": "test team",
+  "description": "this is description for the project",
+  "teamMember1": "user1",
+  "teamMember2": "user2",
+  "teamMember3": "user3"
 }
